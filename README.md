@@ -2,7 +2,7 @@
 node.js
 flutter
 bdsql
-## originlink :
+## link to the original link(on gitlab) :
 https://gitlab.com/mohamed.tabbene/easymeal_flutter.git
 
 
